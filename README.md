@@ -6,7 +6,7 @@ I'm Jacopo Piazzalunga!
 - <i>Currently:</i> MS CS Student at Polytechnic University of Milan. 
 - <i>Previously:</i> BSc CS Student at Polytechnic University of Milan.
 
-<h2>💻 I'm Currently workng on</h2>
+<h2>💻 I'm Currently working on</h2>
 
 - Cyber Security Skills
 - Software Engineering

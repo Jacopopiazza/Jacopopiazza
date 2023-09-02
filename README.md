@@ -9,6 +9,7 @@ I'm Jacopo Piazzalunga!
 <h2>💻 I'm Currently working on</h2>
 
 - Cyber Security Skills
+- Expanding my knowledge of advanced Algorithms and Data Structures
 - Software Engineering
 
 __Check out my GitHub repository:__

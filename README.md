@@ -18,12 +18,13 @@ __Check out my GitHub repository:__
     <a href="https://github.com/Jacopopiazza/ing-sw-2023">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacopopiazza&repo=ing-sw-2023" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Jacopopiazza/ZSmile-Cuda">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacopopiazza&repo=ZSmile-Cuda" alt="GitHub Stats" />
-    </a>
     <a href="https://github.com/Jacopopiazza/TIW-RIA">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacopopiazza&repo=TIW-RIA" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/Jacopopiazza/ZSmile-Cuda">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacopopiazza&repo=ZSmile-Cuda" alt="GitHub Stats" />
+    </a>
+  
     <a href="https://github.com/Jacopopiazza/WordChecker">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacopopiazza&repo=WordChecker" alt="GitHub Stats" />
     </a>

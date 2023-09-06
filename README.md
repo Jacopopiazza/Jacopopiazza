@@ -12,7 +12,7 @@ I'm Jacopo Piazzalunga!
 - Expanding my knowledge of advanced Algorithms and Data Structures
 - Software Engineering
 
-__Check out my GitHub repository:__
+<!--__Check out my GitHub repository:__
 
 <div>
   <p>
@@ -30,6 +30,7 @@ __Check out my GitHub repository:__
     </a>
   </p>
 </div>
+-->
 
 ---
 

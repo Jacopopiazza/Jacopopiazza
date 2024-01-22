@@ -8,6 +8,7 @@ I'm Jacopo Piazzalunga!
 
 <h2>💻 I'm Currently working on</h2>
 
+- Applied Machine Learning and Deep Learning
 - Cyber Security Skills
 - Expanding my knowledge of advanced Algorithms and Data Structures
 - Software Engineering

@@ -33,6 +33,8 @@ I'm Jacopo Piazzalunga!
 </div>
 -->
 
+If you want to check out my latest work, feel free to take a peek at my pinned repository!
+
 ---
 
 <p align="center">

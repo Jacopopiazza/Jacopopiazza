@@ -3,7 +3,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jacopopiazza.jacopopiazza)](https://github.com/jacopopiazza) [![GitHub followers](https://img.shields.io/github/followers/jacopopiazza.svg?style=social&label=Follow)](https://github.com/jacopopiazza?tab=followers)
 
 I'm Jacopo Piazzalunga!
-- <i>Currently:</i> MS CS Student at Polytechnic University of Milan. 
+- <i>Currently:</i> SDE Intern @ Amazon LUX & MS CS Student at Polytechnic University of Milan. 
 - <i>Previously:</i> BSc CS Student at Polytechnic University of Milan.
 
 <h2>💻 I'm Currently working on</h2>

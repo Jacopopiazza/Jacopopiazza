@@ -1,5 +1,4 @@
 <h1 align="center">Hey! 👋 I'm Jacopo Piazzalunga!</h1>
-<h2 align="center">SDE Intern @ Amazon Luxembourg</h2>
 
 <p align="center">
   <a href="https://github.com/jacopopiazza">
@@ -15,7 +14,9 @@
 ### 🎓 About Me
 
 - **Currently:** MS CS Student at Polytechnic University of Milan
-- **Previously:** BSc CS Student at Polytechnic University of Milan
+- **Previously:**
+    * SDE Intern @ Amazon Luxembourg
+    * BSc CS Student at Polytechnic University of Milan  
 
 ---
 
